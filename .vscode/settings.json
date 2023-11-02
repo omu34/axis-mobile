@@ -1,0 +1,16 @@
+{
+  "cSpell.words": ["Quicklinks"],
+
+  //"workbench.colorTheme": "Vim Deep Dark", // My Theme
+  //"workbench.iconTheme": "material-icon-theme", // My Icon Theme
+  "editor.fontFamily": "Fira Code", // My Font
+  //"editor.fontSize": 19, // Font size
+  //"editor.minimap.enabled": false, // disabled minimap
+  //"editor.fontLigatures": true, // enabled ligatures
+  //"editor.formatOnPaste": true, // text will format on pasting the code
+  //"editor.formatOnSave": true // text will format if you hit ctrl + S
+  //"editor.defaultFormatter": "esbenp.prettier-vscode", // formatter
+  //"terminal.integrated.fontFamily": "MesloLGS Nerd Font", // terminal font to use icons
+  //"debug.terminal.clearBeforeReusing": true // clears your debug terminal before using
+  //"terminal.integrated.fontSize": 19 // terminal font size
+}
